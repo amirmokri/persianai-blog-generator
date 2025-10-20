@@ -345,7 +345,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **GitHub**: [@amirmokri](https://github.com/amirmokri)
 - **Email**: amirali.mokri@gmail.com
-- **LinkedIn**: [@amiralimokri](https://linkedin.com/in/amiralimokri)
+- **LinkedIn**: [@amirali-mokri](https://linkedin.com/in/amirali-mokri)
 - 
 
 ---
